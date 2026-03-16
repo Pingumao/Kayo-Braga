@@ -18,7 +18,7 @@
 Kayo Braga
 https://github.com/Pingumao?tab=repositories
 
-![Workflow Status]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![Workflow Status](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
 
