@@ -9,6 +9,8 @@
 
 :books: I am currently finishing my 3rd year and studying Systems Development.
 
+:eyes: 
+
 :outbox_tray: 2026 Goals: Start a company with my friends.
 
 
